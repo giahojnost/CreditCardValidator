@@ -1,7 +1,7 @@
 # Credit Card Validator
 
 Validates popular debit and credit cards numbers against regular expressions and Luhn algorithm.
-Also validates the CVC and the expiration date.\
+Also validates the CVC and the expiration date.
 
 Based on [inacho/php-credit-card-validator](https://github.com/inacho/php-credit-card-validator), for support PHP 8.
 
